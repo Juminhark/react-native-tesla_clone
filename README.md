@@ -18,8 +18,8 @@
 ```
 > npm install -g expo-cli
 > expo --version
-> expo init TeslaClone
-> cd TeslaClone
+> expo init tesla_clone
+> cd tesla_clone
 > yarn start
 ```
 
